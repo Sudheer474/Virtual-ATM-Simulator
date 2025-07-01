@@ -10,7 +10,7 @@ A Java Swing based desktop application simulating ATM functionalities like:
 -Transaction history(Mini Statement)
 
 
-##Technologies Used
+## Technologies Used
 
 -Core Java
 -Java Swing (JFrame)
